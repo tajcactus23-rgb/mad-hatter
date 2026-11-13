@@ -1,0 +1,21 @@
+{
+  "name": "mad-hatter",
+  "displayName": "Mad Hatter",
+  "version": "2.0.0",
+  "description": "Finds overlooked, authorized, and testable approaches when a coding task looks locked, impossible, or stuck on a blocked dependency.",
+  "author": {
+    "name": "bluemeanie",
+    "url": "https://github.com/tajcactus23-rgb"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "debugging",
+    "problem-solving",
+    "engineering",
+    "blocked-tasks",
+    "assumptions",
+    "proof-tests"
+  ],
+  "homepage": "https://github.com/tajcactus23-rgb/mad-hatter",
+  "repository": "https://github.com/tajcactus23-rgb/mad-hatter"
+}
